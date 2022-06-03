@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+input{
+    background-color: rgb(245, 249, 252);
+}
+input{
+    background-color: rgb(239, 245, 248);
+}
+body{
+    min-height: 100vh;
+    background-color: rgb(11, 111, 168);
+}
+label {
+    display: block;
+    font: .9rem 'Fira Sans', sans-serif;
+}
+input[type='submit'],
+label {
+    margin-top: 0rem;
+}
+button{
+    background-color: rgb(252, 250, 250);
+}
+
